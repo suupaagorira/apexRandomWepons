@@ -1,0 +1,2 @@
+# apexRandomWepons
+apexの武器をランダムで選択することのできるプログラムです
